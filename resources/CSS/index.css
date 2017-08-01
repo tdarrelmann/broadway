@@ -15,10 +15,32 @@ h3 {
 
 h1 {
   font-size: 70px;
-  color: white;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+h3 {
+  font-size: 23px;
+}
+
+p {
+  font-size: 14px;
 }
 
 a {
   font-size: 18px;
   color: white;
+}
+#header,
+#designedin {
+  color: white;
+  background-image: url("file:///C:/Users/admin/github/broadway-project/resources/image/flatiron.png");
+}
+
+#footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgrey;
 }
