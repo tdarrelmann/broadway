@@ -36,7 +36,8 @@ a {
 #header,
 #designedin {
   color: white;
-  background-image: url("file:///C:/Users/admin/github/broadway-project/resources/image/flatiron.png");
+  /* took the URL and not the ralative filepath because the realative path didnt worked */
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
 }
 
 #footer {
